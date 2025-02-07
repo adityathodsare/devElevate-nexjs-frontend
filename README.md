@@ -14,7 +14,7 @@ Welcome to the DevElevate Frontend project, built using Next.js and TypeScript. 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Deployment**: [Vercel](https://vercel.com/)
--  **demo**: [DevElevate]((https://dev-elevate-nexjs-frontend.vercel.app/))
+-  **demo**: [DevElevate](https://dev-elevate-nexjs-frontend.vercel.app/)
 
 
 ## Getting Started
