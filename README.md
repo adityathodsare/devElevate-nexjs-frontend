@@ -1,3 +1,33 @@
+# DevElevate Frontend
+
+Welcome to the DevElevate Frontend project, built using Next.js and TypeScript. This application offers a range of courses in software development, cybersecurity, cloud computing, and more, providing users with hands-on experience through expert-led sessions.
+
+## Features
+
+- **Course Listings**: Browse and learn about various courses such as MERN Stack Development, Java Full Stack Development, Generative AI, Mobile Development, UI/UX Design, and Next.js.
+- **Collaborative Learning**: Engage in real-time interactive sessions with peers, mentors, and industry experts.
+- **Real-time Updates**: Stay informed with the latest technologies and industry trends through continuously updated content.
+- **Project-Based Learning**: Gain practical experience with hands-on projects and real-world applications.
+
+## Technologies Used
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Deployment**: [Vercel](https://vercel.com/)
+
+- ![Build and Deploy](https://dev-elevate-nexjs-frontend.vercel.app/)
+
+
+## Getting Started
+
+To run this project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/dev-elevate-frontend.git
+   cd dev-elevate-frontend
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
